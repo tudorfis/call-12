@@ -1,5 +1,5 @@
 import { redirect } from '../utils/dom.utils.js'
-import Api from './services/Api.js'
+import Api from './Api.js'
 
 const Login = {
     async checkLogin() {
